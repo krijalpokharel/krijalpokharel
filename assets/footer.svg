@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120"><defs>
-<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff9a1e"/><stop offset="1" stop-color="#50ff96"/></linearGradient>
-<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<path d="M0 70 Q250 20 500 70 T1000 70 V120 H0Z" fill="url(#g)" opacity=".25"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 70 Q250 20 500 70 T1000 70 V120 H0Z;M0 70 Q250 110 500 70 T1000 70 V120 H0Z;M0 70 Q250 20 500 70 T1000 70 V120 H0Z"/></path>
-<text x="500" y="85" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="20" fill="#ebebf5" opacity=".8">thanks for visiting - keep coding</text></svg>

@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 150" width="1000" height="150"><defs>
-<linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#ff9a1e"/><stop offset="1" stop-color="#50ff96"/></linearGradient>
-<filter id="glow" x="-30%" y="-30%" width="160%" height="160%"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-</defs>
-<rect width="1000" height="150" fill="#0a0814" rx="12"/><rect x="1" y="1" width="998" height="148" fill="none" stroke="url(#g)" stroke-width="2" rx="12"/>
-<text x="36" y="58" font-family="'Courier New',Consolas,monospace" font-size="30" font-weight="bold" fill="#ff9a1e">Webtechnology-Project</text>
-<text x="36" y="92" font-family="'Courier New',Consolas,monospace" font-size="20" fill="#ebebf5">Made for an assignment · web technology</text>
-<circle cx="42" cy="122" r="7" fill="#e44d26"/><text x="58" y="128" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#ebebf5">HTML</text>
-<text x="860" y="128" font-family="'Courier New',Consolas,monospace" font-size="18" fill="#50ff96">view repo →</text></svg>
