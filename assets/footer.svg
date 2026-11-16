@@ -1,3 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 110" width="1000" height="110">
-<path d="M0 60 Q250 15 500 60 T1000 60 V110 H0Z" fill="#ff9a1e" opacity=".18"><animate attributeName="d" dur="6s" repeatCount="indefinite" values="M0 60 Q250 15 500 60 T1000 60 V110 H0Z;M0 60 Q250 100 500 60 T1000 60 V110 H0Z;M0 60 Q250 15 500 60 T1000 60 V110 H0Z"/></path>
-<text x="500" y="82" text-anchor="middle" font-family="'Courier New',Consolas,monospace" font-size="20" fill="#f0f0f5" opacity=".8">thanks for visiting - keep coding</text></svg>
