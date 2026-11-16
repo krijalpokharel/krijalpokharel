@@ -10,7 +10,7 @@
 - 🔭 Currently working on **web technology projects**
 - 🌱 Currently learning **HTML, CSS & JavaScript**
 - 💬 Ask me about **web development**
-- ⚡ Fun fact: **Based in Kathmandu, Nepal 🇳🇵**
+- ⚡ Fun fact: **My code works... and I don't know why 😅**
 
 ---
 
@@ -21,15 +21,15 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=krijalpokharel&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krijalpokharel&layout=compact&theme=tokyonight" />
-</p>
+### 📁 Projects
+- 🌐 [Webtechnology-Project](https://github.com/krijalpokharel/Webtechnology-Project) - made for an assignment
+- 🚧 More coming soon...
 
 ---
 
 ### 📫 Connect With Me
 <p align="center">
   <a href="mailto:krijalpokharel96@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_INSTAGRAM_URL"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
 </p>
