@@ -1,22 +1,14 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=gradient&customColorList=6&text=Krijal%20Pokharel&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Web%20Developer&descAlignY=65" width="100%" />
-
-<h1 align="center">Hi 👋, I'm Krijal Pokharel</h1>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=450&lines=Web+Developer;Always+Learning;Building+Cool+Stuff" />
+  <img src="banner.gif" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=krijalpokharel&color=00f7ff&style=for-the-badge&label=PROFILE+VIEWS" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF9A1E&center=true&vCenter=true&width=450&lines=Web+Developer;Always+Learning;Building+Cool+Stuff" />
 </p>
 
----
-
-### 🚀 About Me
-- 🔭 Currently working on **web technology projects**
-- 🌱 Currently learning **HTML, CSS & JavaScript**
-- 💬 Ask me about **web development**
-- ⚡ Fun fact: **My code works... and I don't know why 😅**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=krijalpokharel&color=ff9a1e&style=for-the-badge&label=PROFILE+VIEWS" />
+</p>
 
 ---
 
@@ -49,4 +41,4 @@
   <a href="https://wa.me/9779810220005"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF9A1E,100:1a0f2e&height=120&section=footer" width="100%" />
